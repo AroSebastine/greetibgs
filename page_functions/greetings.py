@@ -5,4 +5,7 @@ def aro():
 class Testing:
 
     def greetings_list(self):
-        return ['hi', 'hello']
+        return ['hi',
+                'hello',
+                'howdy'
+                ]

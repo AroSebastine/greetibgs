@@ -5,4 +5,4 @@ print(greetings.aro())
 
 
 for greeting in greetings.Testing().greetings_list():
-    print(greeting.title())
+    print(greeting.title() + "!")
